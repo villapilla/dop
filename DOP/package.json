@@ -1,0 +1,15 @@
+{
+  "name": "dop_tester",
+  "version": "1.0.0",
+  "description": "Aplicacion para realizar pruebas remotas en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Villaluenga",
+  "license": "CC",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}

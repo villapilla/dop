@@ -1,0 +1,40 @@
+.navbar-default {
+    background-color: #060606;
+    border-color: #E7E7E7;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus {
+    color: #BBBABA;
+    background-color: #060606;
+    line-height: 2em;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+    color: white;
+    background-color: #545353;
+    line-height: 2em;
+}
+#marca {
+  font-size: 2.5em;
+  color: #BBBABA;
+}
+#marca:hover {
+  color: white;
+}
+#marca span {
+    color: #CBC57A;
+}
+#marca span:first-letter{
+    color:white;
+}
+#log_git {
+  padding: 7px;
+}
+#log_git button {
+  border-radius: 5px;
+  padding: 2px 7px 2px 5px;
+  color: white;
+  background: black;
+}
+#log_git button:hover {
+  color: black;
+  background: white;
+}

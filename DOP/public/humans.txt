@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    
+    David Villaluenga Casasola -- Diseño y desarrollo
+
+# THANKS
+    
+    Chema -- Gracias por una enseñanza magnífica
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    MEAN server, jQuery, Modernizr, Normalize.css, Bootstrap
+    MongoDB, Express, Angular, Nodejs
